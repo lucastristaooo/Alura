@@ -41,7 +41,7 @@ a:hover{
     height: 400px;
     background: black url(b2ap3_large_profesion-de-programador-web.jpg) center center no-repeat fixed;
     background-size: cover;
-    box-shadow: 1px 1px 10px rgba(0, 255, 255, 0.50);
+    box-shadow: 1px 1px 10px rgba(0, 255, 255, 0.5);
     transition: 0.5s;
 }
 .back{
