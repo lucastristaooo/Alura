@@ -39,9 +39,10 @@ a:hover{
     left: 110%;
     width: 400px;
     height: 400px;
-    background: black url(como-se-tornar-um-programador-mobile.jpg) center center no-repeat fixed;
+    background: black url(b2ap3_large_profesion-de-programador-web.jpg) center center no-repeat fixed;
     background-size: cover;
-    box-shadow: 1px 1px 10px aqua;
+    box-shadow: 1px 1px 10px rgba(0, 255, 255, 0.50);
+    transition: 0.5s;
 }
 .back{
     border: 2px solid aqua;
@@ -54,7 +55,8 @@ a:hover{
     transition: 0.2s;
 }
 .img:hover{
-    box-shadow: 1px 1px 10px rgb(255, 0, 255);
+    box-shadow: 1px 1px 10px aqua;
+    translate: 14.5px -14.5px;
 }
 #a{
     text-align: justify;
