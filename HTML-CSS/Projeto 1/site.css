@@ -115,7 +115,7 @@ div > h1{
     top: -60px;
 }
 div > .back{
-    border: 2px solid grey;
+    border: 2px solid white;
     position: absolute;
     top: -80px;
     left: -455px;
@@ -124,7 +124,7 @@ div > .img{
     position: absolute;
     left: -441px;
     top: -100px;
-    box-shadow: 1px 1px 10px grey;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.5);
 }
 div > .img:hover{
     translate: -15px 13px;
