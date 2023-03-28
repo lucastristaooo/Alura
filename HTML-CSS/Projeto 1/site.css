@@ -1,11 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-.nome{
-    color: white;
-    font: normal lighter 0.8em 'Indie Flower', cursive;;
-    position: absolute;
-    top: 1200px;
-    left: 50%;
-}
 header{
     display: flex;
     flex-direction: row;
@@ -17,8 +9,8 @@ header{
 }
 .linha{
     position: absolute;
-    top: 12px;
-    left: 1189.5px;
+    top: -114px;
+    left: 852px;
     border: 1px solid grey;
     height: 30px;
     width: 0px;
