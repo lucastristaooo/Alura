@@ -1,11 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.nome{
+    color: white;
+    font: normal lighter 0.8em 'Indie Flower', cursive;;
+    position: absolute;
+    top: 1200px;
+    left: 50%;
+}
 header{
     display: flex;
     flex-direction: row;
     justify-content: end;
     align-items: center;
     text-align: center;
-    margin-right: 200px;
+    margin-right: 185px;
     font-size: 0.95em;
+}
+.linha{
+    position: absolute;
+    top: 12px;
+    left: 1189.5px;
+    border: 1px solid grey;
+    height: 30px;
+    width: 0px;
 }
 .blocohead{
     width: 85px;
